@@ -1,0 +1,7 @@
+build/
+docs/
+data/
+logs/
+*.pyc
+*.tar.gz
+*.pem
